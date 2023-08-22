@@ -38,4 +38,4 @@ public class UserController {
 
     // Add more controller methods for login, profile access, etc.
 }
-}
+
